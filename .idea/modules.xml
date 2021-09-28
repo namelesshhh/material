@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Swin-Transformer-main/.idea/Swin-Transformer-main.iml" filepath="$PROJECT_DIR$/../Swin-Transformer-main/.idea/Swin-Transformer-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Swin-Unet-main.iml" filepath="$PROJECT_DIR$/.idea/Swin-Unet-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../open-aff-master/.idea/open-aff-master.iml" filepath="$PROJECT_DIR$/../open-aff-master/.idea/open-aff-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../styletransfer/.idea/styletransfer.iml" filepath="$PROJECT_DIR$/../styletransfer/.idea/styletransfer.iml" />
+    </modules>
+  </component>
+</project>
