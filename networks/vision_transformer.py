@@ -45,6 +45,7 @@ class SwinUnet(nn.Module):
                                 use_checkpoint=config.TRAIN.USE_CHECKPOINT)
 
     def forward(self, x):
+        #if channel = 1,
         if x.size()[1] == 1:
             x = x.repeat(1,3,1,1)
         logits = self.swin_unet(x)
